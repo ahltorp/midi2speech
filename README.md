@@ -4,9 +4,9 @@ Midi2speech
 Requirements
 ------------
 
-Python 3.9
-libmidi package from pypi
-MBROLA for the actual synthesis: [MBROLA](https://github.com/numediart/MBROLA)
+* Python 3.9
+* libmidi package from pypi
+* MBROLA for the actual synthesis: [MBROLA](https://github.com/numediart/MBROLA)
 
 Running
 -------
